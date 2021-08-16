@@ -39,7 +39,14 @@ export const Banner = () => {
 							label='View projects'
 							variant='outline'
 						/>
+						
 					</a>
+					<a href='#resume'>
+						<Button
+							label='see my Resume'
+							variant='outline'
+						/>
+					<a/>
 				</div>
 				<div className='banner__image'>
 					<img

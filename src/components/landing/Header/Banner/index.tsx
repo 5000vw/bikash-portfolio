@@ -11,15 +11,14 @@ export const Banner = () => {
 		<div className='banner'>
 			<div className='banner__container'>
 				<div className='banner__content'>
-					<h3>HELLO, I’M BIKASH SHARMA</h3>
+					<h3>HELLO, I’M isaac kiplangat</h3>
 					<h1>Full Stack Developer</h1>
 					<h5>
-						I’m a Helsinki based full stack developer
-						focused on the{' '}
+						I’m a fullstack web developer based in kenya{' '}
 						<span className='text-highlight'>
 							front-end
 						</span>
-						. I have also gained experience as a consultant
+						. I am intrested in blockchaim, and i have a few projects
 						,
 						<span className='text-highlight'>
 							product designer
@@ -29,7 +28,7 @@ export const Banner = () => {
 						to{' '}
 						<a
 							className='github'
-							href='https://github.com/bikashxsharma'
+							href='https://github.com/5000vw'
 							target='_blank'
 							rel='noopener noreferrer'>
 							Github.

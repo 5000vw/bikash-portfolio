@@ -39,7 +39,7 @@ function Skills() {
 					/>
 					<Skill
 						name='Additional Languages'
-						detail='Python, PHP'
+						detail='Python, PHP,Golang ,'
 						icon={pythonIcon}
 					/>
 					<Skill

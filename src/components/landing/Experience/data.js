@@ -1,8 +1,8 @@
 export const ExperienceData = [
   {
-    title: 'UX/UI Designer',
+    title: 'frontend /backend developer',
     detail:
-      'Lemon is a mobile app for handling menu orders in restaurants',
+      'NHIFT is a blochain based distributed ledger system  for medical services and facilities',
     image: process.env.PUBLIC_URL + '/images/lemon_logo.png',
     progress: 'In development..',
     time: '05.2020 - 07.2020',
